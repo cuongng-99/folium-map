@@ -1,5 +1,3 @@
-Here’s the corrected version:
-
 #### **1. About the Data**
 
 - This dataset contains a list of orders from an e-commerce company in Hanoi.
